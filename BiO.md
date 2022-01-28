@@ -11,7 +11,7 @@
 
 - 🌱 I’ve Created **Path Finder Using Arduino**
 
-- 👯 🌱 I’ve Created **Home Automation Using Arduino Using Bluetooth, IR Remote**
+- 👯 🌱 I’ve Created **Home Automation Using Arduino with Bluetooth, IR Remote**
 
 - 🤝 I’ve Created **Gas Detector and Gas Supply Controller Using Arduino**
 
